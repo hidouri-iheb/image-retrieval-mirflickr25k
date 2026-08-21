@@ -1,0 +1,17 @@
+# Data (too large for GitHub)
+data/
+features/*.npy
+features/*.pkl
+
+# Jupyter
+.ipynb_checkpoints/
+*.pyc
+__pycache__/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
